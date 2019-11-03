@@ -30,3 +30,4 @@ fr10 = FundingRound.new(blahco,mark_cuban,"Angel",9_000_000)
 
 binding.pry
 0 #leave this here to ensure binding.pry isn't the last line
+#done
